@@ -1,0 +1,6 @@
+-sname sesvr
+
+-setcookie sesvr_cookie
+
++K true
++A30
